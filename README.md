@@ -1,4 +1,4 @@
-# RR-Team-21-emostream-concurrent-emoji-broadcast-over-event-driven-architecture
+# Emostream - A Concurrent Emoji Broadcast over Event-driven Architecture
 
 ## Project Description
 
